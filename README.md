@@ -17,7 +17,7 @@ Git is a very essential and distributed version control system where developers 
 - Merge and Merge Conflicts
 - Fork
 - Special Github Files
-- - - - 
+- - - -
 
 # Learning Structure
 
