@@ -47,6 +47,7 @@ This command will find all the possible configures that git can use.
 - - - -
 After this you will be able to download, install and configure git in your device. If you have vs code installed you can also download github copilot extension there.
 - - - -
-[⬅️ Previous Page](../README.md) 
+
+[<< Back to Previous Page](../README.md)  <div align="right">[Continue to Next Page >>](./Clone&Status.md) </div>
 
 

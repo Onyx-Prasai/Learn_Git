@@ -29,7 +29,7 @@ This is why Git and GitHub are essential tools for any developer—they keep you
 - Merge and Merge Conflicts
 - Fork
 - Special Github Files
-- - - - 
+- - - -
 
 # Learning Structure
 
