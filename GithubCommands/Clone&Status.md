@@ -34,7 +34,7 @@ git status
 ```
 <h3>Here you have learned to Clone and check status of a Repo.</h3>
 
-[<<Back to Previous Page](./ConfiguringGit.md) 
+[<<Back to Previous Page](./ConfiguringGit.md) <div align="right">[Continue to Next Page >>](./AddnCommit.md) </div>
                 
 
 
