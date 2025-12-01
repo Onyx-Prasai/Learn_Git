@@ -25,6 +25,7 @@ This is why Git and GitHub are essential tools for any developer—they keep you
 - Push Command 
 - Init Command
 - Workflow 
+- Git Branches
 - Pull Command
 - Merge and Merge Conflicts
 - Fork
@@ -37,6 +38,14 @@ This is why Git and GitHub are essential tools for any developer—they keep you
 - [ConfiguringGit](./GithubCommands/ConfiguringGit.md) - For configuring git
 - [Clone and Status](./GithubCommands/Clone&Status.md) - For learning about clone and check status of your repo
 - [Add and Commit](./GithubCommands/AddnCommit.md) - For learning about Add and Commit command in git 
+- [Push Command](./GithubCommands/GitPush.md) - For learning about git push commands
+- [Init Command](./GithubCommands/Init.md) - For learning about init commands
+- [Workflow](./GithubCommands/Workflow.md) - To understand the workflow of local git
+- [Git Branches](./GithubCommands/Git_Branches.md) - For proper understanding about git branches
+- [Pull Command](./GithubCommands/Pullcmd.md) - To learn about Pull commands in github
+- [Merge and Merge Conflicts](./GithubCommands/Merge&MergeConflict.md) - To understand mege and manage the merge conflicts of a repo
+- [Fork](./GithubCommands/Fork.md) - Learn about forking in github
+- [Additional: Special Github Files](./GithubCommands/SpecialGithubFiles.md) - To understand and work with special github files
 
 - - - -
 After studying the file you will be able to work with version control system to track changes in code using git and github. This is based on my study and there may not be everything included but the onces that are included are important. 
