@@ -33,9 +33,10 @@ This is why Git and GitHub are essential tools for any developer—they keep you
 
 # Learning Structure
 
-- <a href>"GithubCommands"</a>- This is the main folder where the git journey begins
-- [ConfiguringGit](./GithubCommands/ConfiguringGit.md) - Able to configure git
-- [Clone and Status](./GithubCommands/Clone&Status.md) - Able to clone and check status of your repo
+- [Github Commands](./GithubCommands) - This is the main folder where contents are present
+- [ConfiguringGit](./GithubCommands/ConfiguringGit.md) - For configuring git
+- [Clone and Status](./GithubCommands/Clone&Status.md) - For learning about clone and check status of your repo
+- [Add and Commit](./GithubCommands/AddnCommit.md) - For learning about Add and Commit command in git 
 
 - - - -
 After studying the file you will be able to work with version control system to track changes in code using git and github. This is based on my study and there may not be everything included but the onces that are included are important. 
