@@ -34,7 +34,7 @@ Steps can set env, copy files, run scripts, etc. Steps share the same workspace 
 
 ## Contexts & expressions
 
-Use ${{ }} to access contexts (e.g., ${{ github.ref }}, ${{ secrets.MY_SECRET }}) and to write conditional expressions in if:.
+Use ${{ }} to access contexts (e.g., ${{ github.ref }}, ${{ secrets.MY_SECRET }} and to write conditional expressions in if:.
 
 # Example of a simple CI workflow:
 <img src ="../Images/Example workflow.png" alt="Link" width=500px>
