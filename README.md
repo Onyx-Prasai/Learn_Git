@@ -1,7 +1,7 @@
 
 # Git and Github
 
-Git is a distributed version control system that helps developers track and manage changes in their code.
+ Git is a distributed version control system that helps developers track and manage changes in their code.
 
 Imagine working on a project with your friends. Everyone is building different parts, some connected and some not. Without a proper system, it becomes confusing to know which file is updated, what changed, and how to merge everyone’s work safely.
 
