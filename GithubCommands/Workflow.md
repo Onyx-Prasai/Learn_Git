@@ -68,3 +68,5 @@ Use environment protection rules (environments, approvals) for jobs that deploy 
 Reusable workflows let one workflow file be called from others using workflow_call. Great for centralizing CI steps across many repos. 
 
 Composite actions let you bundle steps into a single action you can uses: inside a job (good for small shared step sets)
+
+[<<Back to Previous Page](./Init.md) <div align="right">[Continue to Next Page >>](./Git_Branches.md) </div>
