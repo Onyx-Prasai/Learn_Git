@@ -1,6 +1,7 @@
-# Fork
+# Introduction to Fork
 Forking is basically just copying a repo to our local file and keeping it in our repository as a rough copy. If we are creating a project and someone who is not a colobrate wants to contribute to our repo then the person can fork the project then work, contribute then send a pr to the main user or you can use it for your independent development.
 
+# Forking in Github
 There process to fork a repo is shown below:
 1. First go to the project repository of the project that you want to fork.
 2. Then you should see something like fork at right side from the project name
