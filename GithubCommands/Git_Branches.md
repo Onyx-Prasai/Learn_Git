@@ -21,4 +21,13 @@ A branch is simply a movable pointer to a commit. The default branch in most rep
 - **hotfix branch** → urgent production fixes  
 - **release branch** → preparation for a release
 
+## Creating a Branch
+
+```bash
+git branch feature-login
+git checkout feature-login
+
+# OR shortcut
+git checkout -b feature-login
+
 
