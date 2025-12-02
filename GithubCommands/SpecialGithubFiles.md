@@ -10,17 +10,17 @@ Used to explain your project clearly.
 
 Usually contains:
 
-    - What the project does
+- What the project does
 
-    - How to install/use it
+- How to install/use it
 
-    - Examples
+- Examples
 
-    - Badges
+- Badges
 
 ## LICENSE
 
- Tells others what they can or cannot do with your code.
+Tells others what they can or cannot do with your code.
 
 Examples: MIT, Apache 2.0, GPL.
 
@@ -32,13 +32,13 @@ Tells Git which files NOT to track.
 
 Common things to ignore:
 
-    - node_modules
+- node_modules
 
-    - .env
+- .env
 
-    - compiled binaries
+- compiled binaries
 
-    - temporary files
+- temporary files
 
 ## CONTRIBUTING.md
 
@@ -100,23 +100,23 @@ Located in:
 
 YAML files used to automate:
 
-    - Tests
+- Tests
 
-    - Builds
+- Builds
 
-    - Deployment
+- Deployment
 
-    - CI/CD processes
+- CI/CD processes
 
 ## .gitattributes
 
 Controls how Git handles files, like:
 
-    - Line endings
+- Line endings
 
-    - File diff behavior
+- File diff behavior
 
-    - Large file handling
+- Large file handling
 
 ## .github folder
 
