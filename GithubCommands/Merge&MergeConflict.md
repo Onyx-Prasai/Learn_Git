@@ -35,4 +35,4 @@ The best ways to handle merge conflicts is by :
 <ol>Merging two branches</ol>
 <ol>Deleting one of the conflicting part</ol>
 
-[<<Back to Previous Page](./Pull.md)  <div align="right">[Continue to Next Page >>](./Fork.md) </div>
+[<<Back to Previous Page](./Pullcmd.md)  <div align="right">[Continue to Next Page >>](./Fork.md) </div>
