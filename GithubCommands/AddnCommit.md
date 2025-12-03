@@ -51,6 +51,6 @@ In place of Type_Message_Here you should type a meaningful message related to yo
 
 <h3>So, after this you will be able to add and commit your files in github.</h3>
 
-[<<Back to Previous Page](./Clone&Status.md)  <div align="right">[Continue to Next Page >>](./GitPush.md) </div>
+[<<Back to Previous Page](./Clone&Status.md)  <div align="right">[Continue to Next Page >>](./Init.md) </div>
 
 

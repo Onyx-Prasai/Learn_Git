@@ -15,4 +15,4 @@ git push <remote> <branch>
 Where <remote> refers to the name of your remote repository and 
 <branch> is the name of the local branch you want to push ie main or master branch
 
-[<<Back to Previous Page](./AddnCommit.md)  <div align="right">[Continue to Next Page >>](./Init.md) </div>
+[<<Back to Previous Page](./AddnCommit.md)  <div align="right">[Continue to Next Page >>](./Workflow.md) </div>
