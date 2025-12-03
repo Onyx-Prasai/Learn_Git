@@ -15,4 +15,7 @@ git push <remote> <branch>
 Where <remote> refers to the name of your remote repository and 
 <branch> is the name of the local branch you want to push ie main or master branch
 
+<h3>Here you have learned to push your local repo to a remote repo.</h3>
+
+
 [<<Back to Previous Page](./Init.md)  <div align="right">[Continue to Next Page >>](./Workflow.md) </div>

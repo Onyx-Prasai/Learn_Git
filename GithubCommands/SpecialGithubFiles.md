@@ -124,4 +124,6 @@ Contains many of the special files above.
 
 Exists only for GitHub-specific configurations.
 
+<h3>Congrats! You have learned the git and github successfully now try working with some projects.</h3>
+
 [<<Back to Previous Page](./Fork.md) 

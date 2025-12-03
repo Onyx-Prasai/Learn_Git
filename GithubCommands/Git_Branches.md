@@ -30,5 +30,7 @@ git checkout feature-login
 # OR shortcut
 git checkout -b feature-login
 ```
+<h3>Here you have learned about branching in git and github.</h3>
+
 
 [<<Back to Previous Page](./Workflow.md) <div align="right">[Continue to Next Page >>](./Pullcmd.md) </div>
