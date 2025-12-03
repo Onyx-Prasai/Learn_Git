@@ -22,8 +22,8 @@ This is why Git and GitHub are essential tools for any developer—they keep you
 - Learning to Configure Git
 - Cloning and check status
 - Add and Commit
-- Push Command 
 - Init Command
+- Push Command
 - Workflow 
 - Git Branches
 - Pull Command
