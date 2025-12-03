@@ -1,4 +1,4 @@
-# Special GitHub Files (Explained Simply)
+# Special GitHub Files 
 
 These are files that GitHub treats differently because they control documentation, configuration, automation, or community rules of your repository.
 
