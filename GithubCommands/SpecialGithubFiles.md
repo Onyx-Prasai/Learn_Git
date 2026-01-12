@@ -126,4 +126,4 @@ Exists only for GitHub-specific configurations.
 
 <h3>Congrats! You have learned the git and github successfully now try working with some projects.</h3>
 
-[<<Back to Previous Page](./Fork.md) 
+[<<Back to Previous Page](./Fork.md) <div align="right">[Continue to Next Page >>](./Git_LFS.md) </div>
